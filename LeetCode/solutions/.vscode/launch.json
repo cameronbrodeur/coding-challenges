@@ -1,0 +1,431 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Debug Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-001E_two_sum (JavaScript)",
+            "program": "${workspaceFolder}/001E_two_sum/001E_two_sum.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-002M_add_two_numbers (JavaScript)",
+            "program": "${workspaceFolder}/002M_add_two_numbers/002M_add_two_numbers.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-003M_longest_substring_without_repeating_characters (JavaScript)",
+            "program": "${workspaceFolder}/003M_longest_substring_without_repeating_characters/003M_longest_substring_without_repeating_characters.js"
+        },
+        {
+            "type": "java",
+            "name": "Debug-006M_zigzag_conversion (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "ZigZagConversion_006M",
+            "args": ""
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-007E_reverse_integer (JavaScript)",
+            "program": "${workspaceFolder}/007E_reverse_integer/007E_reverse_integer.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-008M_string_to_integer_atoi (JavaScript)",
+            "program": "${workspaceFolder}/008M_string_to_integer_atoi/008M_string_to_integer_atoi.js"
+        },
+        {
+            "type": "java",
+            "name": "Debug-009E_palindrome_number (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "PalindromeNumber_009E",
+            "args": ""
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-011M_container_with_most_water (JavaScript)",
+            "program": "${workspaceFolder}/011M_container_with_most_water/011M_container_with_most_water.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-013E_roman_to_integer (JavaScript)",
+            "program": "${workspaceFolder}/013E_roman_to_integer/013E_roman_to_integer.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-014E_longest_common_prefix (JavaScript)",
+            "program": "${workspaceFolder}/014E_longest_common_prefix/014E_longest_common_prefix.js"
+        },
+        {
+            "type": "java",
+            "name": "Debug-017M_letter_combinations_of_a_phone_number (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "LetterCombinationsOfAPhoneNumber_017M",
+            "args": ""
+        }, 
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-020E_valid_parenthesis (JavaScript)",
+            "program": "${workspaceFolder}/020E_valid_parenthesis/020E_valid_parenthesis.js"
+        },
+        {
+            "type": "java",
+            "name": "Debug-021E_merge_two_sorted_lists (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "MergeTwoSortedLists_21E",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug-022M_generate_parentheses (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "GenerateParentheses_022M",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug-026E_remove_duplicates_from_sorted_array (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "RemoveDuplicatesFromSortedArray_026E",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug-027E_remove_element (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "RemoveElement_027E",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug-028E_implement_strstr (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "ImplementStrStr_028E",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug-035E_search_insert_position (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "SearchInsertPosition_035E",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug-038E_count_and_say (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "CountAndSay_038E",
+            "args": ""
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-041H_first_missing_positive (JavaScript)",
+            "program": "${workspaceFolder}/041H_first_missing_positive/041H_first_missing_positive.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-042H_trapping_rain_water (JavaScript)",
+            "program": "${workspaceFolder}/042H_trapping_rain_water/042H_trapping_rain_water.js"
+        },
+        {
+            "type": "java",
+            "name": "Debug-053E_maximum_subarray (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "MaximumSubarray_053E",
+            "args": ""
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-054M_spiral_matrix (JavaScript)",
+            "program": "${workspaceFolder}/054M_spiral_matrix/054M_spiral_matrix.js"
+        },
+        {
+            "type": "java",
+            "name": "Debug-058E_length_of_last_word (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "LengthOfLastWord_058E",
+            "args": ""
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-066E_plus_one (JavaScript)",
+            "program": "${workspaceFolder}/066E_plus_one/066E_plus_one.js"
+        },
+        {
+            "type": "java",
+            "name": "Debug-067E_add_binary (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "AddBinary_067E",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug-069E_sqrt_of_x (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "SqrtOfX_069E",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug-070E_climbing_stairs (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "ClimbingStairs_070E",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug-083E_remove_duplicates_from_sorted_list (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "RemoveDuplicatesFromSortedList_083E",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug-088E_merge_sorted_array (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "MergeSortedArray_088E",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug-100E_same_tree (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "SameTree_100E",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug-102M_binary_tree_level_order_traversal (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "BinaryTreeLevelOrderTraversal_102M",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug-118E_pascals_triangle (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "PascalsTriangle_118E",
+            "args": ""
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-125E_valid_palindrome (JavaScript)",
+            "program": "${workspaceFolder}/125E_valid_palindrome/125E_valid_palindrome.js"
+        },
+        {
+            "type": "java",
+            "name": "Debug-136E_single_number (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "SingleNumber_136E",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug-144M_binary_tree_preorder_traversal (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "BinaryTreePreorderTraversal_144M",
+            "args": ""
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-208M_implement_trie_prefix_tree (JavaScript)",
+            "program": "${workspaceFolder}/208M_implement_trie_prefix_tree/208M_implement_trie_prefix_tree.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-227M_basic_calculator_2 (JavaScript)",
+            "program": "${workspaceFolder}/227M_basic_calculator_2/227M_basic_calculator_2.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-238M_product_of_array_except_self (JavaScript)",
+            "program": "${workspaceFolder}/238M_product_of_array_except_self/238M_product_of_array_except_self.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-289M_game_of_life (JavaScript)",
+            "program": "${workspaceFolder}/289M_game_of_life/289M_game_of_life.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-340H_longest_substring_with_at_most_k_distinct_chars (JavaScript)",
+            "program": "${workspaceFolder}/340H_longest_substring_with_at_most_k_distinct_chars/340H_longest_substring_with_at_most_k_distinct_chars.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-344E_reverse_string (JavaScript)",
+            "program": "${workspaceFolder}/344E_reverse_string/344E_reverse_string.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-387E_first_unique_character_in_string (JavaScript)",
+            "program": "${workspaceFolder}/387E_first_unique_character_in_string/387E_first_unique_character_in_string.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-454M_4sum_2 (JavaScript)",
+            "program": "${workspaceFolder}/454M_4sum_2/454M_4sum_2.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-482E_license_key_formatting (JavaScript)",
+            "program": "${workspaceFolder}/482E_license_key_formatting/482E_license_key_formatting.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-500E_keyboard_row (JavaScript)",
+            "program": "${workspaceFolder}/500E_keyboard_row/500E_keyboard_row.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-508M_most_frequent_subtree_sum (JavaScript)",
+            "program": "${workspaceFolder}/508M_most_frequent_subtree_sum/508M_most_frequent_subtree_sum.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-616M_add_bold_tag_in_string (JavaScript)",
+            "program": "${workspaceFolder}/616M_add_bold_tag_in_string/616M_add_bold_tag_in_string.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-681M_next_closest_time (JavaScript)",
+            "program": "${workspaceFolder}/681M_next_closest_time/681M_next_closest_time.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-683H_k_empty_slots (JavaScript)",
+            "program": "${workspaceFolder}/683H_k_empty_slots/683H_k_empty_slots.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-686E_repeated_string_match (JavaScript)",
+            "program": "${workspaceFolder}/686E_repeated_string_match/686E_repeated_string_match.js"
+        },
+        {
+            "type": "java",
+            "name": "Debug-687E_longest_univalue_path (Java)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "LongestUnivaluePath_687E",
+            "args": ""
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-687E_longest_univalue_path (JavaScript)",
+            "program": "${workspaceFolder}/687E_longest_univalue_path/687E_longest_univalue_path.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Debug-771E_jewels_and_stones (JavaScript)",
+            "program": "${workspaceFolder}/771E_jewels_and_stones/771E_jewels_and_stones.js"
+        },
+    ]
+}
